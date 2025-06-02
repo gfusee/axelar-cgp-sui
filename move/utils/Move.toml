@@ -1,13 +1,13 @@
 [package]
-name = "VersionControl"
+name = "Utils"
 version = "0.1.0"
 edition = "2024"
-published-at = "0x647a3b34b3a16f5f00443bdafd13d281983b2280703ab4f416cf706e6d739087" #testnet
-# published-at = "0x1faa10c04e3ccdd0c5f1dbe43a63704be46f00903032d44b4eb4b87c16a18276" #devnet
+published-at = "0xf9517d7ab7e48f9a915ce8c2236e9ec4968d96692b38277651dea5d99603f08f"
+# published-at = "0xd937e31b88f0c35c65210e5a38b8222044bf0624227a220c0ee5ec48f86aa8e0" #devnet
 
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "mainnet-v1.38.3" }
 
 [addresses]
-version_control = "0x647a3b34b3a16f5f00443bdafd13d281983b2280703ab4f416cf706e6d739087"
+utils = "0xf9517d7ab7e48f9a915ce8c2236e9ec4968d96692b38277651dea5d99603f08f"
