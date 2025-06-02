@@ -2,7 +2,7 @@
 name = "Operators"
 version = "0.1.0"
 edition = "2024"
-published-at = "0xbf6b0b743c01709fc636f41d74dd1db15b140bb6bb7ff4897dcf381cbec58db7" #testnet
+published-at = "0x013d0f9713b4b615f7234c470d8dfa851b7fecb11528319fbd5e618849dd064f"
 # published-at = "0x1eea2d0a5dfbbaddfae9342e130fd2b532c1c9aae2d0a6b07b77f0bec5698009" #devnet
 
 
@@ -10,4 +10,4 @@ published-at = "0xbf6b0b743c01709fc636f41d74dd1db15b140bb6bb7ff4897dcf381cbec58d
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "mainnet-v1.38.3" }
 
 [addresses]
-operators = "0xbf6b0b743c01709fc636f41d74dd1db15b140bb6bb7ff4897dcf381cbec58db7"
+operators = "0x013d0f9713b4b615f7234c470d8dfa851b7fecb11528319fbd5e618849dd064f"

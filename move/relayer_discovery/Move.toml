@@ -2,7 +2,7 @@
 name = "RelayerDiscovery"
 version = "0.1.0"
 edition = "2024"
-published-at = "0x2b839b25c7133e5e0f8f585cb2e89bf430a6585a88c4a0343ae3b246372d431c" #testnet
+published-at = "0x2b839b25c7133e5e0f8f585cb2e89bf430a6585a88c4a0343ae3b246372d431c"
 # published-at = "0x4075fefb4216afcdeef604aa9880830720316156025c9addcb6b04a3f4a4c00c" #devnet
 
 
