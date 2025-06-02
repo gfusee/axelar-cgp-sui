@@ -2,7 +2,7 @@
 name = "GasService"
 version = "0.1.0"
 edition = "2024"
-published-at = "0xddf711b99aec5c72594e5cf2da4014b2d30909850a759d2e8090add1088dbbc9" #testnet
+published-at = "0xc10dd54f42a2f3ebdb8f113bd0a0627934c90e608d1e32e5fd0c7ae4d03d93b3"
 
 
 [dependencies]
@@ -11,4 +11,4 @@ VersionControl = { local = "../version_control" }
 AxelarGateway = { local = "../axelar_gateway" }
 
 [addresses]
-gas_service = "0xddf711b99aec5c72594e5cf2da4014b2d30909850a759d2e8090add1088dbbc9"
+gas_service = "0xc10dd54f42a2f3ebdb8f113bd0a0627934c90e608d1e32e5fd0c7ae4d03d93b3"
